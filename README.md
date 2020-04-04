@@ -29,17 +29,17 @@
 ## 🚀 Technologies
 
 This Project was developed wiht the following technologies:
-#####Backend:
+##### Backend:
 - [Node.js](https://nodejs.org/en/)
 - [Express.Js](https://expressjs.com/)
 - [Knex.js](http://knexjs.org/)
 - [Jest](https://jestjs.io/en/)
 
-#####FrontEnd:
+##### FrontEnd:
 - [React](https://reactjs.org)
 - [Axios](https://github.com/axios/axios)
 
-#####Mobile:
+##### Mobile:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
